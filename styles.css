@@ -35,3 +35,34 @@ h6{
 .button{
     margin-bottom: 10px;
 }
+/*
+.nav{
+    height: 100px;
+    background-color: lightcoral;
+}
+
+.biografia{
+    background-color: lightgreen;
+    height: 500px;
+}
+*/
+.portfolio{
+    height: 450px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.card{
+    background-color: lightblue;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    position: relative;
+}
+
+.card-body{
+    position: absolute;
+    bottom: 0;
+}
+
+
