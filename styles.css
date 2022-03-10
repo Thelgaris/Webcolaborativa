@@ -1,5 +1,5 @@
 .footer {
-    background-color: orange;
+    background-color: gainsboro;
     height: 300px;
 }
 h6{
@@ -9,60 +9,26 @@ h6{
 
 
 .Tworow{
-    display: flex;
     margin-left: 10px;
     margin-top: 10px;
+    display: flex;
 }
-    
+
 .icons{
    text-align: center;
 }
 .inputDetails{
-    height: 225px;
+    
     padding-top: 15px;
 }
 .formRequest{
-    padding-top: 30px;
+   
     display: grid;
-    padding-left: 50px;
-    padding-right: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 
 
-
-
-.button{
-    margin-bgit ottom: 10px;
-}
-/*
-.nav{
-    height: 100px;
-    background-color: lightcoral;
-}
-
-.biografia{
-    background-color: lightgreen;
-    height: 500px;
-}
-*/
-.portfolio{
-    height: 450px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-}
-
-.card{
-    background-color: lightblue;
-    height: 400px;
-    width: 300px;
-    margin: auto;
-    position: relative;
-}
-
-.card-body{
-    position: absolute;
-    bottom: 0;
-}
 
 
