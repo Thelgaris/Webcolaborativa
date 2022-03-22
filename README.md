@@ -1,3 +1,11 @@
+La web es una página de un diseñador web
+
+ANA
+Mi parte es la del medio y es una muestra del portfolio con tres trabajos destacados. Tiene un row con 3 columnas. Las columnas tienen un ancho de 4 y un breakpoint en md para que al hacerse la pantalla más pequeña pasen a estar una encima de otra.
+
+En cada columna hay una card con un trabajo. Cada card tiene una imagen y una descripción. Para que el texto de la descripción se quedase pegado abajo utilicé posicionamiento absoluto con bottom 0.
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
