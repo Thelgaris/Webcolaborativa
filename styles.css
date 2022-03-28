@@ -1,38 +1,58 @@
+
+.biografia{
+    background-color: lightgray;
+}
+
+.portfolio{
+    height: 450px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.card{
+    background-color: lightblue;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    position: relative;
+}
+
+.card-body{
+    position: absolute;
+    bottom: 0;
+}
+
+
 .footer {
-    background-color: gainsboro;
+    background-color: lightgray;
     height: 300px;
 }
 h6{
     margin-left: 10px;
     margin-top: 10px;
-    padding-top: 10px;
 }
 
 
-.Tworow{
-    margin-left: 10px;
+.name&email{
     display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
 }
-
+    
 .icons{
    text-align: center;
 }
 .inputDetails{
-    
+    height: 225px;
     padding-top: 15px;
 }
-.formRequest{   
+.formRequest{
+    padding-top: 30px;
     display: grid;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 50px;
+    padding-right: 400px;
 }
 
-.card {
-    margin-left: 150px;
-    margin-right: 150px;
-    height: 150px;
-   
+.button{
+    margin-bottom: 10px;
 }
-
-
-
