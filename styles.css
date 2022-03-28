@@ -26,9 +26,35 @@
 .footer {
     background-color: lightgray;
     height: 300px;
+    padding-left: 10px;
 }
 
+.IDatos {
+    margin: 10px;
+    padding-top: 10px;
+}
+.nombre {
+    padding-top: 20px;
+}
 
+.email{
+    display: flex;
+    height: 150px;
+    
+}
+.introsol{
+    text-align: center;
+}
+.emailinput{
+    display: inline-block;
+    padding-top: 40px;
+}
 
+.solicitud{
+    text-align: center;
+}
 
+.icons {
+    text-align: center;
+}
     
