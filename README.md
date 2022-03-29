@@ -1,3 +1,13 @@
+Hola 4Geeks teacher!
+
+He creado el Footer de esta Web colaborativa con Bootstrap!
+
+He didivido el footer en varias "row" con sus "col" para colocar cada elemento en su lugar. He rematado algunos alineamientos con CSS.
+
+
+
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
