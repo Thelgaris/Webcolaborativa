@@ -1,3 +1,11 @@
+
+La web es una página de un diseñador web
+
+ANA
+Mi parte es la del medio y es una muestra del portfolio con tres trabajos destacados. Tiene un row con 3 columnas. Las columnas tienen un ancho de 4 y un breakpoint en md para que al hacerse la pantalla más pequeña pasen a estar una encima de otra.
+
+En cada columna hay una card con un trabajo. Cada card tiene una imagen y una descripción. Para que el texto de la descripción se quedase pegado abajo utilicé posicionamiento absoluto con bottom 0.
+
 Hola 4Geeks teacher!
 
 He creado el Footer de esta Web colaborativa con Bootstrap!
